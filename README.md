@@ -32,14 +32,21 @@ it contributes significantly to the broader field of cybersecurity.
 
 Requirements to use program:
 (Change pip to to pip3 if using python 3 or higher)
+
 MAC/LINUX
+
 Selenium - sudo pip install selenium (C&P in Terminal)
+
 Requests - sudo pip install requests (C&P in Terminal)
+
 WINDOWS
+
 Selenium - pip install selenium (C&P in Terminal)
+
 Requests - pip install requests (C&P in Terminal)
 
 Example Websites:
+
 https://demo.testfire.net/login.jsp 
 
 http://testphp.vulnweb.com/artists.php?artist=1
